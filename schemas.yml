@@ -6,3 +6,6 @@ schemas:
   -
     path: "schema_amenagements_cyclables.json"
     title: "Schema des aménagements cyclables"
+  -
+    path: "schema2.json"
+    title: "schema2"
